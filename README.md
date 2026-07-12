@@ -12,16 +12,18 @@
 
 ## About Me
 
-I'm currently in college, spending most of my free time building side projects — mostly web apps and tools that solve problems I actually run into day to day.
+🎓 I'm a college student who spends most of my free time building things — usually web apps and small tools that solve problems I actually run into.
 
-I'm also curious about how software works at a lower level, so I've been slowly reading into OS theory and playing around with writing my own toy kernel.
+🔍 Lately I've been pulled toward the lower layers of software. Instead of just using tools, I want to know how they work — so I've been reading through OS theory and slowly writing my own toy kernel from scratch.
+
+⚡ I learn best by building, breaking, and rebuilding — most of what's here started as "let me just see if I can make this."
 
 ```yaml
-student:   true
-currently: building side projects
-learning:  OS internals, kernel dev
+role:      AIML Student
+focus:     Learning ML & layers into OS
+currently: Building side projects & learning cybersecurity 
+mindset:   Build first, understand deeply, iterate
 ```
-
 <br>
 
 ## 🚀 Featured Project
@@ -63,7 +65,7 @@ An interactive biology learning platform for exploring cell structures
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:ansh.67562@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yourprofile">
