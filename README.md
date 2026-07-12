@@ -1,44 +1,78 @@
-<h1 align="center">Hi, I'm Ansh 👋</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ansh+%F0%9F%91%8B;CS+Student+%7C+Builder+%7C+Curious+Mind;I+build+things+%26+figure+out+how+they+work" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ansh67562-lol&style=flat-square&color=2EA043" alt="Profile views" />
+
+</div>
+
+<br>
+
+## About Me
+
+I'm currently in college, spending most of my free time building side projects — mostly web apps and tools that solve problems I actually run into day to day.
+
+I'm also curious about how software works at a lower level, so I've been slowly reading into OS theory and playing around with writing my own toy kernel.
+
+```yaml
+student:   true
+currently: building side projects
+learning:  OS internals, kernel dev
+```
+
+<br>
+
+## 🚀 Featured Project
+
+<div align="center">
+
+### 🧬 [CellSphere](https://github.com/ansh67562-lol/Cell-model-)
+An interactive biology learning platform for exploring cell structures
+
+`HTML` `CSS` `JavaScript`
+
+</div>
+
+> More projects are on the way — I build in public and push things here as they get to a decent state.
+
+<br>
+
+## 🛠️ Tech I Work With
 
 <p align="center">
-  AIML student who likes building things and figuring out how they work under the hood.
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,c,html,css,tailwind,git,github" />
 </p>
 
----
+<br>
 
-### About me
+## 📊 GitHub Stats
 
-I'm currently in college, spending most of my free time building side projects — mostly web apps and tools that solve problems I actually run into day to day. I'm also curious about how software works at a lower level, so I've been slowly reading into OS theory and playing around with writing my own toy kernel.
+<div align="center">
 
-### What I've built
+<img src="https://github-readme-stats.vercel.app/api?username=ansh67562-lol&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh67562-lol&theme=github-dark&hide_border=true" height="165" />
 
-- 🧬 **CellSphere** — an interactive biology learning platform for exploring cell structures, built with HTML, CSS, and JavaScript. [Check it out](https://github.com/ansh67562-lol/Cell-model-)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh67562-lol&layout=compact&theme=github_dark&hide_border=true" height="165" />
 
-More projects are on the way — I build in public and push things here as they get to a decent state.
+</div>
 
-### Tech I work with
+<br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
-
-### GitHub Stats
+## 📫 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansh67562-lol&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh67562-lol&hide_border=true" height="165" />
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-### Let's connect
+<br>
 
-<p align="left">
-  <a href="mailto:ansh.67562@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
+<div align="center">
+<sub>Thanks for stopping by ⭐</sub>
+</div>
