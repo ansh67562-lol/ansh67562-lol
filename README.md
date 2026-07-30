@@ -16,7 +16,23 @@ Repos are a mix of finished work and things still taking shape. I push as they b
 
 ### Skills
 
-<img src="./assets/skills.svg" alt="skills" />
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=161B22)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=161B22)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=161B22)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=161B22)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8&labelColor=161B22)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26&labelColor=161B22)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6&labelColor=161B22)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032&labelColor=161B22)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=C9D1D9&labelColor=161B22)
 
 &nbsp;
 
